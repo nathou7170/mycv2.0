@@ -1,0 +1,30 @@
+/*body{
+    background-image: url(images/fondtech.jpg);
+    background-repeat: no-repeat; 
+}
+*/
+body{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 18px;
+    color: #fff;
+    margin-left: 260px;
+    background-color: dimgrey;
+    
+
+}
+.fond-g{
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.sec-d{
+    margin-left: 150px;
+}
+.languages.img{
+    width: 10px;
+    height: 30px;
+
+}
+.sec-g{
+    float: left;
+    font-weight: bold;
+}
